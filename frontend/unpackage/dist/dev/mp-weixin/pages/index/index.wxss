@@ -1,0 +1,23 @@
+
+.myBest.data-v-57280228 {
+	margin-left: 10rpx;
+	margin-top: 20rpx;
+}
+/* 回到顶部 */
+.top.data-v-57280228 {
+		position: relative;
+		display: none; /* 先将元素隐藏 */
+}
+.topc.data-v-57280228 {
+		position: fixed;
+		right: 0;
+		background: #F0F0F0;
+		top: 70%;
+		height: 50px;
+		line-height: 50px;
+}
+
+
+
+
+

@@ -1,0 +1,213 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* 下面是上边框CSS */
+.mytop.data-v-3cef2e46{
+	width: 735rpx;height: 180rpx;background-color: #a1afc9;margin: 0 auto;
+	border-top-left-radius: 16rpx;border-top-right-radius: 16rpx;
+	margin-top: 10rpx;display: -webkit-box;display: -webkit-flex;display: flex;
+}
+/* 如下是左边第一个D */
+.firstdivone.data-v-3cef2e46{
+	width: 150rpx;height: 50rpx;background-color: #000000;color: white;
+	line-height: 50rpx;border-top-left-radius: 16rpx;
+	border-bottom-right-radius: 16rpx;font-size: 30rpx;text-align: center;
+}
+.myimg1 image.data-v-3cef2e46{
+	width: 98rpx;height: 100rpx;
+}
+.myimg1.data-v-3cef2e46{
+	width: 150rpx;display: -webkit-box;display: -webkit-flex;display: flex;-webkit-box-pack: center;-webkit-justify-content: center;justify-content: center;-webkit-box-align: center;-webkit-align-items: center;align-items: center;
+}
+.mytext1.data-v-3cef2e46{
+	width: 150rpx;display: -webkit-box;display: -webkit-flex;display: flex;-webkit-box-pack: center;-webkit-justify-content: center;justify-content: center;-webkit-box-align: center;-webkit-align-items: center;align-items: center;
+	margin-top: -20rpx;font-size: 25rpx;
+}
+/* 右侧大div看一个小单元div */
+.myfirstimg.data-v-3cef2e46{
+	background-color:#C0C0C0;
+}
+.myfirstimg image.data-v-3cef2e46{
+	width: 98rpx;height: 100rpx;
+}
+.minfirsttext.data-v-3cef2e46{
+	width: 98rpx;height: 40rpx;background-color: #dbe2ef;font-size: 23rpx;color:#969896;
+}
+.minfirstdiv.data-v-3cef2e46, .myfirstimg.data-v-3cef2e46, .minfirsttext.data-v-3cef2e46{
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;-webkit-box-orient: vertical;-webkit-box-direction: normal;-webkit-flex-direction: column;flex-direction: column;-webkit-box-align: center;-webkit-align-items: center;align-items: center;-webkit-box-pack: center;-webkit-justify-content: center;justify-content: center;
+}
+.minfirstdiv.data-v-3cef2e46{
+}
+.twodiv.data-v-3cef2e46{
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex; -webkit-box-align: center; -webkit-align-items: center; align-items: center;
+	bordert-radius: 10rpx;-webkit-justify-content: space-around;justify-content: space-around;
+}
+.kong.data-v-3cef2e46{
+	width: 40rpx;height: 1rpx;
+}
+/* 下面是下边块的CSS */
+.mybottom.data-v-3cef2e46{
+	width: 735rpx;height: 180rpx;background-color: #eaeaea;margin: 0 auto;
+	border-bottom-left-radius: 16rpx;border-bottom-right-radius: 16rpx;
+}
+/* 下面是下边块的CSS */
+.mybottom.data-v-3cef2e46{/* 第一层 */
+		width: 735rpx;height: 180rpx;background-color: #eaeaea;margin: 0 auto;
+		border-bottom-left-radius: 16rpx;border-bottom-right-radius: 16rpx;
+		font-size: 25rpx;
+}
+/* 下面是滚动 第二层*/
+.mybottomscroll.data-v-3cef2e46{
+height: 180rpx;width: 725rpx; white-space: nowrap;margin: 0 auto;
+display: -webkit-box;
+display: -webkit-flex;
+display: flex;-webkit-box-orient: vertical;-webkit-box-direction: normal;-webkit-flex-direction: column;flex-direction: column;
+}
+.mybottomscroll image.data-v-3cef2e46{
+	width:130rpx ;height: 150rpx;margin-top: 15rpx;border-radius: 10rpx;
+	margin-left: 15rpx;
+}
+
+

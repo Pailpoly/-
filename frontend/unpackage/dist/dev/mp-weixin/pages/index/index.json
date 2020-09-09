@@ -1,0 +1,20 @@
+{
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "index-nav": "/comm/indexnav",
+    "ji-fen": "/comm/jifen",
+    "scroll-x": "/comm/scrollx",
+    "swi": "/comm/swi",
+    "best-product": "/comm/bestproduct",
+    "k-i-l-l": "/comm/kill",
+    "o-k": "/comm/OK",
+    "da-pai": "/comm/dapai",
+    "b-o-o-k": "/comm/book",
+    "clothes": "/comm/clothes",
+    "jdshop": "/comm/jdshop",
+    "child": "/comm/child",
+    "tuijian": "/comm/tuijian",
+    "lingshi": "/comm/lingshi",
+    "myshop": "/comm/myshop"
+  }
+}

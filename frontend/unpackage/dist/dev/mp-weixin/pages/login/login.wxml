@@ -1,0 +1,1 @@
+<view class="data-v-b237504c"><button style="background-color:#4CD964;color:#ffffff;width:700rpx;margin-top:200rpx;border-radius:40rpx;" open-type="getUserInfo" lang="zh_CN" data-event-opts="{{[['getuserinfo',[['onGotUserInfo',['$event']]]]]}}" bindgetuserinfo="__e" class="data-v-b237504c">确认授权微信登陆</button></view>

@@ -1,0 +1,7 @@
+
+.myview{
+	margin-top: 100rpx;
+	font-size: 40rpx;
+	color: #c32136;
+}
+

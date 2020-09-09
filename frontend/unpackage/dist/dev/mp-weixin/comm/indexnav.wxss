@@ -1,0 +1,24 @@
+
+.content.data-v-855da3d4{
+	background-color: white;
+}
+.header.data-v-855da3d4{
+	height: 80rpx;padding-top: 50rpx;
+}
+.left.data-v-855da3d4{
+	float: left;overflow: hidden;
+}
+.left image.data-v-855da3d4{
+	height: 70rpx;width: 70rpx;border-radius: 35px;
+	float: left;margin: 0 30rpx;
+}
+.city.data-v-855da3d4{
+	height: 35rpx;line-height: 35rpx;font-size: 35rpx;
+}
+.location-box.data-v-855da3d4{
+	float: left;height: 70rpx;
+}
+.location.data-v-855da3d4{
+	height: 35rpx;line-height: 35rpx;font-size: 20rpx;
+}
+

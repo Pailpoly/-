@@ -1,0 +1,123 @@
+<template>
+	<view>
+
+
+<view style="margin-top: -300rpx;">
+<view style="width: 750rpx;height: 150rpx;background-color: #e9e7ef;display: flex;justify-content: center;align-items: center;">
+	<view style="width: 80rpx;height: 4rpx;background-color: #808080;position: relative;left: -40rpx;"></view>
+	<view style="font-size: 50rpx;position: relative;top: -19rpx;left: -24rpx;"><text>.</text></view>
+	<view style="color: #ff2d51;font-size: 50rpx;"><text>服装鞋包</text></view>
+	<view style="width: 80rpx;height: 4rpx;background-color: #808080;position: relative;left: 40rpx;"></view>
+	<view style="font-size: 50rpx;position: relative;top: -19rpx;left: -65rpx;"><text>.</text></view>
+</view>
+
+<view style="margin: 0 auto;margin-left: 8rpx;"><!-- 图片 -->
+	  <image style="width: 734rpx;height: 232rpx;border-top-left-radius: 16rpx;border-top-right-radius: 16rpx;" src="../static/myimg/fu.png"></image>
+	  
+</view>
+
+<!-- 开始内容 -->
+
+<view style="margin: 0 auto;margin-left: 8rpx;display: flex;"><!-- 第二层 -->
+		<view style="display: flex;justify-content: space-around;width: 367rpx;border-right-style: solid;border-right-width: 2rpx;border-right-color: #f0f0f4;
+		                     border-bottom-style: solid;border-bottom-width: 2rpx;border-bottom-color:#f0f0f4 ;"><!-- 左边 -->
+				<view style="display: flex;justify-content: center;align-items: center;flex-direction: column;">
+					<text style="font-weight: bolder;">女童专区</text>
+					<text style="color: #808080;font-size: 26rpx;">3件3折</text>
+				</view>
+				<view>
+					<image style="width: 100rpx;height: 120rpx;" src="../static/myimg/yifu1.jpg">
+					</image>
+				</view>
+		</view>
+		
+<view style="display: flex;justify-content: space-around;width: 367rpx;
+		                     border-bottom-style: solid;border-bottom-width: 2rpx;border-bottom-color:#f0f0f4 ;"><!-- 左边 -->
+				<view style="display: flex;justify-content: center;align-items: center;flex-direction: column;">
+					<text style="font-weight: bolder;">男童专区</text>
+					<text style="color: #808080;font-size: 26rpx;">3件3折</text>
+				</view>
+				<view>
+					<image style="width: 100rpx;height: 120rpx;" src="../static/myimg/yifu223.jpg">
+					</image>
+				</view>
+		</view>
+	
+</view>
+
+
+<!-- 第三层 -->
+<!-- 第三层---如下	 -->
+	<view style="display: flex;justify-content: space-between;align-items: center;">
+			<!-- 如下是其中一个项 -->
+			<view  style="display: flex;flex-direction: column;justify-content:flex-start;align-items: center;
+						height: 200rpx;width:180rpx ;">
+				<text style="font-weight: bold;margin-top: 5rpx;">
+					T恤
+				</text>
+				<text style="font-size: 24rpx;color: #969896;margin-top: 5rpx;">
+					2-15岁
+				</text>
+					<image style="width: 100rpx;height: 90rpx;margin-top: 5rpx;" src="../static/myimg/24356.jpg">
+						
+					</image>
+			</view>
+			<!-- 如下是其中一个项 -->
+			<view  style="display: flex;flex-direction: column;justify-content:flex-start;align-items: center;
+						height: 200rpx;width:180rpx ;">
+				<text style="font-weight: bold;margin-top: 5rpx;">
+					衬衫
+				</text>
+				<text style="font-size: 24rpx;color: #969896;margin-top: 5rpx;">
+					2-15岁
+				</text>
+					<image style="width: 100rpx;height: 90rpx;margin-top: 5rpx;" src="../static/myimg/222.jpg">
+						
+					</image>
+			</view>
+			<!-- 如下是其中一个项 -->
+			<view  style="display: flex;flex-direction: column;justify-content:flex-start;align-items: center;
+						height: 200rpx;width:180rpx ;">
+				<text style="font-weight: bold;margin-top: 5rpx;">
+					套装
+				</text>
+				<text style="font-size: 24rpx;color: #969896;margin-top: 5rpx;">
+					2-15岁
+				</text>
+					<image style="width: 100rpx;height: 90rpx;margin-top: 5rpx;" src="../static/myimg/444.jpg">
+						
+					</image>
+			</view>
+			<!-- 如下是其中一个项 -->
+			<view  style="display: flex;flex-direction: column;justify-content:flex-start;align-items: center;
+						height: 200rpx;width:180rpx ;">
+				<text style="font-weight: bold;margin-top: 5rpx;">
+					裤子
+				</text>
+				<text style="font-size: 24rpx;color: #969896;margin-top: 5rpx;">
+					2-15岁
+				</text>
+					<image style="width: 100rpx;height: 90rpx;margin-top: 5rpx;" src="../static/myimg/999.png">
+						
+					</image>
+			</view>
+	</view>
+
+
+
+
+
+</view>
+
+	</view>
+</template>
+
+<script>
+	export default {
+		
+	}
+</script>
+
+<style scoped>
+
+</style>

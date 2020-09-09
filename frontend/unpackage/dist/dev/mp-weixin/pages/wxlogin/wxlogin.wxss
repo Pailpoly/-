@@ -1,0 +1,14 @@
+
+.mytext.data-v-57c73f58{
+}
+.btn.data-v-57c73f58:focus,
+.btn.data-v-57c73f58:active:focus,
+.btn.active.data-v-57c73f58:focus,
+.btn.focus.data-v-57c73f58,
+.btn:active.focus.data-v-57c73f58,
+.btn.active.focus.data-v-57c73f58 {
+outline: none;
+border-color: transparent;
+box-shadow:none;-webkit-filter:chroma(color=#000000);filter:chroma(color=#000000);
+}
+

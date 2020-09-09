@@ -1,0 +1,100 @@
+{
+    "description": "项目配置文件。",
+    "packOptions": {
+        "ignore": []
+    },
+    "setting": {
+        "urlCheck": false,
+        "es6": true
+    },
+    "compileType": "miniprogram",
+    "libVersion": "",
+    "appid": "wx8f60753d3939d7c1",
+    "projectname": "frontend",
+    "simulatorType": "wechat",
+    "simulatorPluginLibVersion": {},
+    "condition": {
+        "search": {
+            "current": -1,
+            "list": []
+        },
+        "conversation": {
+            "current": -1,
+            "list": []
+        },
+        "game": {
+            "current": -1,
+            "list": []
+        },
+        "miniprogram": {
+            "current": 0,
+            "list": [
+                {
+                    "name": "查看订单seeorder.vue",
+                    "id": 0,
+                    "pathName": "pages/seeorder/seeorder"
+                },
+                {
+                    "name": "支付完成提示页afterpayok",
+                    "id": 1,
+                    "pathName": "pages/afterpayok/afterpayok"
+                },
+                {
+                    "name": "关于我们",
+                    "id": 2,
+                    "pathName": "pages/me/me"
+                },
+                {
+                    "name": "我的用户信息页",
+                    "id": 3,
+                    "pathName": "pages/personal/personal"
+                },
+                {
+                    "name": "编辑地址",
+                    "id": 4,
+                    "pathName": "pages/address/edit/edit"
+                },
+                {
+                    "name": "add.vue新增地址列表",
+                    "id": 5,
+                    "pathName": "pages/address/add/add"
+                },
+                {
+                    "name": "list.vue地址列表",
+                    "id": 6,
+                    "pathName": "pages/address/list/list"
+                },
+                {
+                    "name": "支付页面mypay",
+                    "id": 7,
+                    "pathName": "pages/mypay/mypay"
+                },
+                {
+                    "name": "购物车order.vue",
+                    "id": 8,
+                    "pathName": "pages/order/order"
+                },
+                {
+                    "name": "测试代码",
+                    "id": 9,
+                    "pathName": "pages/not/not"
+                },
+                {
+                    "name": "mall页面",
+                    "id": 10,
+                    "pathName": "pages/mall/mall"
+                },
+                {
+                    "name": "login页面",
+                    "id": 11,
+                    "pathName": "pages/login/login"
+                },
+                {
+                    "name": "商品详情页",
+                    "id": 12,
+                    "pathName": "pages/detail/detail"
+                }
+            ]
+        }
+    }
+}

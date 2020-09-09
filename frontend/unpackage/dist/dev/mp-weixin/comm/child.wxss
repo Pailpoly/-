@@ -1,0 +1,11 @@
+
+.bimage.data-v-200633e7{
+	height: 84rpx;width: 400rpx;
+}
+.btitle.data-v-200633e7{
+	height: 100rpx;width: 750rpx;background-color: #f3f3f3;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;-webkit-box-pack: center;-webkit-justify-content: center;justify-content: center;-webkit-box-align: center;-webkit-align-items: center;align-items: center;
+}
+

@@ -1,0 +1,189 @@
+{
+	"pages": [ //pages数组中第一项表示应用启动页，参考：https://uniapp.dcloud.io/collocation/pages
+		{
+			"path": "pages/index/index",
+			"style": {
+				"navigationStyle": "custom"
+			}
+		}
+
+		, {
+			"path": "pages/not/not",
+			"style": {}
+		}, {
+			"path": "pages/order/order",
+			"style": {
+				"navigationStyle": "custom"
+			}
+		}, {
+			"path": "pages/mall/mall",
+			"style": {
+				"navigationStyle": "custom"
+			}
+		}, {
+			"path": "pages/personal/personal",
+			"style": {
+				"navigationStyle": "custom"
+			}
+		}, {
+			"path": "pages/login/login",
+			"style": {}
+		}, {
+			"path": "pages/wxlogin/wxlogin",
+			"style": {}
+		}, {
+			"path": "pages/detail/detail",
+			"style": {
+				"navigationStyle": "custom"
+			}
+		}, {
+			"path": "pages/mypay/mypay",
+			"style": {
+				"navigationStyle": "custom"
+			}
+		}, {
+			"path": "pages/address/add/add",
+			"style": {
+				"navigationStyle": "custom"
+			}
+		}, {
+			"path": "pages/address/edit/edit",
+			"style": {
+				"navigationStyle": "custom"
+			}
+		}, {
+			"path": "pages/address/list/list",
+			"style": {
+				"navigationStyle": "custom"
+			}
+		}
+	    ,{
+            "path" : "pages/me/me",
+            "style" : {
+				"navigationStyle": "custom"
+			}
+        }
+        ,{
+            "path" : "pages/afterpayok/afterpayok",
+            "style" : {
+				"navigationStyle": "custom"
+			}
+        }
+        ,{
+            "path" : "pages/seeorder/seeorder",
+            "style" : {
+				"navigationStyle": "custom"
+			}
+        }
+    ],
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "",
+		"navigationBarBackgroundColor": "#F8F8F8",
+		"backgroundColor": "#F8F8F8"
+	},
+	"condition": {
+		"current": 0,
+		"list": [
+			{	"name":"查看订单seeorder.vue",
+				"path":"pages/seeorder/seeorder"
+			},
+				{	"name":"支付完成提示页afterpayok",
+					"path":"pages/afterpayok/afterpayok"
+				},
+			{
+					"name":"关于我们",
+					"path":"pages/me/me"
+				},
+			{
+				"name":"我的用户信息页",
+				"path":"pages/personal/personal"
+			},
+			{
+								"name":"编辑地址",
+								"path":"pages/address/edit/edit"
+							},
+			{
+				"name":"add.vue新增地址列表",
+				"path":"pages/address/add/add"
+			},
+			{
+				"name": "list.vue地址列表",
+				"path": "pages/address/list/list"
+			},
+			{
+				"name": "支付页面mypay",
+				"path": "pages/mypay/mypay"
+			},
+			{
+				"name": "购物车order.vue",
+				"path": "pages/order/order"
+			},
+			{
+				"name": "测试代码",
+				"path": "pages/not/not"
+			},
+			{
+				"name": "mall页面",
+				"path": "pages/mall/mall"
+			},
+			{
+				"name": "login页面",
+				"path": "pages/login/login"
+			},
+			{
+				"name": "商品详情页",
+				"path": "pages/detail/detail"
+			}
+		]
+	},
+	"tabBar": {
+		"color": "#392f41",
+		"selectedColor": "#ff2121",
+		"borderStyle": "black",
+		"backgroundColor": "#ffffff",
+		"list": [{
+				"pagePath": "pages/index/index",
+				"iconPath": "static/myimg/i2.png",
+				"selectedIconPath": "static/myimg/i1.png",
+				"text": "首页"
+			}, {
+				"pagePath": "pages/mall/mall",
+				"iconPath": "static/myimg/s2.png",
+				"selectedIconPath": "static/myimg/s1.png",
+				"text": "商城"
+			},
+			{
+				"pagePath": "pages/order/order",
+				"iconPath": "static/myimg/o2.png",
+				"selectedIconPath": "static/myimg/o1.png",
+				"text": "购物车"
+			}, {
+				"pagePath": "pages/personal/personal",
+				"iconPath": "static/myimg/w2.png",
+				"selectedIconPath": "static/myimg/w1.png",
+				"text": "我的"
+			} //注意最后一个无豆号,此注释要删除
+		]
+	}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}

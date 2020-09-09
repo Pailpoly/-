@@ -1,0 +1,6 @@
+{
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "picker-address": "/components/wangding-pickerAddress/wangding-pickerAddress"
+  }
+}

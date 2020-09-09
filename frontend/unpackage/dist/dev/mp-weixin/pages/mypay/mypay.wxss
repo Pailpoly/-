@@ -1,0 +1,15 @@
+
+.jiang {
+	margin-top: 80rpx;
+	width: 720rpx;
+	height: 80rpx;
+	margin-left: 15rpx;
+	border-radius: 20rpx;
+	opacity: 0.8;
+	line-height: 80rpx;
+	background: #f9e868;
+	background: -webkit-linear-gradient(top, #f9e868 0%, #fefcea 54%, #fefcea 54%, #efe081 100%);
+	background: linear-gradient(to bottom, #f9e868 0%, #fefcea 54%, #fefcea 54%, #efe081 100%);
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f9e868', endColorstr='#efe081',GradientType=0 );
+}
+

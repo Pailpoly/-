@@ -1,0 +1,171 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* <!-- 下面是搜索框  --> */
+page.data-v-2e142186{
+    background-color: #FFFFFF;
+}
+.search-ico.data-v-2e142186, .search-ico-1.data-v-2e142186{
+    width: 35rpx;
+    height: 35rpx;
+}
+.search-text.data-v-2e142186{
+    font-size: 14px;
+    background-color: #FFFFFF;
+    height: 60rpx;
+    width: 480rpx;
+}
+.search-block.data-v-2e142186{
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: flex;
+    -webkit-box-orient: horizontal;
+    -webkit-box-direction: normal;
+    -webkit-flex-direction: row;
+            flex-direction: row;
+    padding-left: 60rpx;
+    position: relative;
+    top: -32rpx;
+}
+.search-ico-wapper.data-v-2e142186{
+    background-color: #FFFFFF;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: flex;
+    -webkit-box-orient:vertical;
+    -webkit-box-direction:normal;
+    -webkit-flex-direction:column;
+            flex-direction:column;
+    -webkit-box-pack: center;
+    -webkit-justify-content: center;
+            justify-content: center;
+    padding: 0rpx 0rpx 0rpx 40rpx;
+    border-bottom-left-radius:18px;
+    border-top-left-radius: 18px;
+}
+.search-ico-wapper1.data-v-2e142186{
+    background-color: #FFFFFF;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: flex;
+    -webkit-box-orient:vertical;
+    -webkit-box-direction:normal;
+    -webkit-flex-direction:column;
+            flex-direction:column;
+    -webkit-box-pack: center;
+    -webkit-justify-content: center;
+            justify-content: center;
+    padding: 0rpx 40rpx 0rpx 0rpx;
+    border-bottom-right-radius:18px;
+    border-top-right-radius: 18px;
+}
+.shadow.data-v-2e142186{
+    width: 638rpx;
+    height: 60rpx;
+    border-radius:18px;
+    box-shadow:0 0 10px #e6e6e6;
+    position: relative;
+    top: -90rpx;
+    left: 60rpx;
+}
+
+
+/* 上面是搜索框CSS */
+
